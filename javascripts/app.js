@@ -1,0 +1,1 @@
+"?form_success=true"==window.location.search.substring("?form_success=true")&&$("#form-success-modal").modal("show");
